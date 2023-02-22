@@ -1,2 +1,2 @@
 # Alison-Nazario
-IFC-Istituto Federal Catarinense. Tácnico para informatica para Internet
+IFC-Istituto Federal Catarinense. Técnico para informatica para Internet
